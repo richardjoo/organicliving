@@ -17,7 +17,7 @@
   <body>
 
       <header>
-        <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+        <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
         <p>organic, non-gmo, chemical free, vegan</p>
       </header>
 
@@ -28,7 +28,7 @@
         <div class="downloads">
           <span>Menu:</span>
           <ul>
-            <li><a href="{{ site.url }}/organic" class="button">Organic</a></li>
+            <li><a href="{{ site.url }}/organic.html" class="button">Organic</a></li>
             <li><a href="{{ site.url }}/nongmo" class="button">Non-GMO</a></li>
             <li><a href="{{ site.url }}/chemicalfree" class="button">Chemical Free</a></li>
           </ul>
@@ -37,7 +37,12 @@
 
     <div class="wrapper">
       <nav>
-        <ul></ul>
+        <ul>
+          <li>{{ site.time | date_to_long_string }}</li>
+          <li>menu 1</li>
+          <li>menu 1</li>
+          <li>menu 1</li>
+        </ul>
       </nav>
       <section>
         {{ content }}
