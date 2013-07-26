@@ -1,9 +1,11 @@
 # to run from the dev, please run jekyll like this:
 # jekyll serve --watch --config _config.yml,_config-dev.yml
 name: organic living dev site
+description: "true organic, chemical free living"
 pygments: true
 paginate: 10
 safe: true
 lsi: false
+markdown: rdiscount
 # url: http://0.0.0.0:4000
 url: http://192.168.1.11:4000
