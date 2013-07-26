@@ -1,3 +1,5 @@
 name: organic living
 pygments: true
 paginate: 10
+safe: true
+lsi: false
