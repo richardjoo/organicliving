@@ -1,8 +1,8 @@
 # to run from the dev, please run jekyll like this:
 # jekyll serve --watch --config _config.yml,_config-dev.yml
-name: organic living
+name: organic living dev site
 pygments: true
 paginate: 10
 safe: true
 lsi: false
-url: http://richardjoo.github.io/organicliving
+url: http://0.0.0.0:4000
