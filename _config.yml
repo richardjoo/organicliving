@@ -3,5 +3,5 @@ pygments: true
 paginate: 10
 safe: true
 lsi: false
-url: http://richardjoo.github.io/organicliving/
+url: http://richardjoo.github.io/organicliving
 # url: http://0.0.0.0:4000/
