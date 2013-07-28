@@ -6,12 +6,21 @@
     <title>Resources</title>
     <link rel="stylesheet" href="http://192.168.1.11:4000/stylesheets/styles.css">
     <link rel="stylesheet" href="http://192.168.1.11:4000/stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>-->
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
     <script src="http://192.168.1.11:4000/javascripts/main.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <script>
+      $(function() {
+        $( "#accordion" ).accordion();
+      });
+    </script>
 
   </head>
   <body>
@@ -51,9 +60,9 @@
   <h1>Resources</h1>
   Useful resources.
   <br /><br />
-
-
+  <div id="accordion">
   <h2>Organic</h2>
+  <div>
   <ul>
 	<li><a href="">test</a></li>
 	  <dl><!--description list-->
@@ -74,10 +83,11 @@
 		    <dd>describes each term/name</dd>
 	    </dl>
   </ul>
-  <br /><br />
-
+  </div>
+  
 
   <h2>Non-GMO</h2>
+  <div>
   <ul>
 	<li><a href="">test</a></li>
 	  <dl><!--description list-->
@@ -98,10 +108,12 @@
 		    <dd>describes each term/name</dd>
 	    </dl>
   </ul>
-  <br /><br />
+  </div>
+  
 
 
   <h2>Chemical Free</h2>
+  <div>
   <ul>
 	<li><a href="">test</a></li>
 	  <dl><!--description list-->
@@ -122,6 +134,8 @@
 		    <dd>describes each term/name</dd>
 	    </dl>
   </ul>
+  </div>
+  </div>
 </div>
 
       </section>
