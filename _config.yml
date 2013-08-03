@@ -7,4 +7,9 @@ paginate: 10
 safe: true
 lsi: false
 markdown: rdiscount
+exclude_from_search: true
 url: http://richardjoo.github.io/organicliving
+
+# in order for you to use search (jekyll-lunr-js-search), you need to install
+#     gem install json
+#     gem install nokogiri
