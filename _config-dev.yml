@@ -3,7 +3,8 @@
 name: organic living dev site
 description: "true organic, chemical free living"
 pygments: true
-paginate: 10
+paginate: 5
+paginate_path: "page:num"
 safe: true
 lsi: false
 markdown: rdiscount
