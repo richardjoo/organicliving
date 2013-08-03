@@ -108,6 +108,6 @@ whey powder
 xanthan gum
 
 ## SOURCE:
-* [non-GMO Shopping Guide][nongmo_shopping_guide]
+* [non-GMO Shopping Guide][1]
 
-[nongmo_shopping_guide]: http://www.nongmoshoppingguide.com/brands/invisible-gm-ingredients.html
+[1]: http://www.nongmoshoppingguide.com/brands/invisible-gm-ingredients.html
