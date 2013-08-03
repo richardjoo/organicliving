@@ -9,6 +9,16 @@ lsi: false
 markdown: rdiscount
 exclude_from_search: true
 url: http://richardjoo.github.io/organicliving
+tags:
+- organic living
+- non-GMO
+- chemical free
+- toxic free
+- healthy living
+- local farming
+- micro agriculture
+- raw food
+- juicing
 
 # in order for you to use search (jekyll-lunr-js-search), you need to install
 #     gem install json
