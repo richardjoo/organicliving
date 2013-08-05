@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Vitamins"
+date:   2013-08-05 12:00 PM
+categories: organic
+---
+
+I am not good at reading LOOONG articles.  I just want to make them short. So, I can tell what is good and what is not good.
+
+### Vitamin A
+* Good for
+    * asdf
+* Side effects
+    * asdf
+
+### Vitamin B1
+### Vitamin B2
+### Vitamin B3
+### Vitamin B5
+### Vitamin B6
+### Vitamin B12
+### Biotin
+### Choline
+### Vitamin C
+### Calcium
+### Chromium
+### Copper
+### Vitamin D
+### Folic Acid
+### Vitamin E
+### Fluoride
+### Iodine
+### Iron
+### Vitamin K
+### Magnesium
+### Manganese
+### Mineral
+### Molybdenum
+### Phosphorus
+### Potassium
+### Selenium
+### Sodium
+### Sulfur
+### Zinc
+
+
+
+
+## Source:
+* [Havard Medical School: Listing of Vitamins][1]
+
+[1]: http://www.health.harvard.edu/newsweek/Listing_of_vitamins.htm
+
