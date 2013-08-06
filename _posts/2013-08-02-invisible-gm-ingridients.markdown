@@ -11,7 +11,7 @@ Processed foods often have hidden GM sources (unless they are organic or declare
 
 * Aspartame (also called AminoSweet®,    NutraSweet®, Equal Spoonful®, * Canderel®,  BeneVia®, E951)
 * baking powder
-* canola oil (rapeseed oil)
+* canola oil (grapeseed oil)
 * caramel color
 * cellulose
 * citric acid
@@ -102,10 +102,10 @@ Processed foods often have hidden GM sources (unless they are organic or declare
 * vegetable oil
 * vitamin B12
 * Vitamin C (ascorbic acid) although usually derived from corn, is probably not GM because it is not likely made in North America.
-vitamin E
-whey
-whey powder
-xanthan gum
+* vitamin E
+* whey
+* whey powder
+* xanthan gum
 
 ## SOURCE:
 * [non-GMO Shopping Guide][1]
