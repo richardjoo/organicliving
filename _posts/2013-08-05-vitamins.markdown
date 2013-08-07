@@ -8,8 +8,9 @@ categories: organic
 I am not good at reading LOOONG articles.  I just want to make them short. So, I can tell what is good and what is not good.
 
 IU = international units
-<div id="accordion">
 
+<h2>Vitamins</h2>
+<div id="accordion">
 <h3>Vitamin A</h3>
 <div>
     <ul>
@@ -248,6 +249,7 @@ IU = international units
 <h3>Calcium</h3>
 <div>
     <ul>
+        <dt>Mineral</dt>
         <li>Good for</li>
           <dd>Builds and protects bones and teeth</dd>
           <dd>Helps with muscle contractions and relaxation, blood clotting, and nerve impulse transmission</dd>
@@ -274,6 +276,7 @@ IU = international units
 <h3>Chloride</h3>
 <div>
     <ul>
+        <dt>Mineral</dt>
         <li>Good for</li>
           <dd>Balances fluids in the body</dd>
           <dd>A component of stomach acid, essential to digestion</dd>
@@ -293,6 +296,7 @@ IU = international units
 <h3>Chromium</h3>
 <div>
     <ul>
+        <dt>Mineral</dt>
         <li>Good for</li>
           <dd>Enhances the activity of insulin</dd>
           <dd>helps maintain normal blood glucose levels</dd>
@@ -316,7 +320,7 @@ IU = international units
 <h3>Copper</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
           <dd>Plays an important role in iron metabolism</dd>
           <dd>Helps make red blood cells</dd>
@@ -413,6 +417,7 @@ IU = international units
 <h3>Fluoride</h3>
 <div>
     <ul>
+        <dt>Mineral</dt>
         <li>Good for</li>
           <dd>Encourages strong bone formationKeeps dental cavities from starting or worsening</dd>
         <li>Side effects</li>
@@ -449,297 +454,274 @@ IU = international units
 </div>
 
 
- 31–50: M: 8 mg, W: 18 mg 51+: M: 8 mg, W: 8 mg  45 mg Red meat, poultry, eggs, fruits, green vegetables, fortified bread and grain products Many women of childbearing age don’t get enough iron.Women who do not menstruate probably need the same amount of iron as men.Because iron is harder to absorb from plants, experts suggest vegetarians get twice the recommended amount (assuming the source is food).
-
 
 <h3>Iron</h3>
 <div>
     <ul>
+        <dt>Mineral</dt>
         <li>Good for</li>
           <dd>Helps hemoglobin in red blood cells and myoglobin in muscle cells ferry oxygen throughout the body</dd>
           <dd>Needed for chemical reactions in the body and for making amino acids, collagen, neurotransmitters, and hormones</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">fruits, green vegetables, fortified bread and grain products</dd>
+          <dd>Red meat, poultry, eggs</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>45 mg</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>31–50: Men: 8 mg</dd>
+          <dd>31–50: Women: 18 mg</dd>
+          <dd>51+: Men: 8 mg</dd>
+          <dd>51+: Women: 8 mg</dd>
+        <li>Many women of childbearing age don’t get enough iron.</li>
+        <li>Women who do not menstruate probably need the same amount of iron as men.</li>
+        <li>Because iron is harder to absorb from plants, experts suggest vegetarians get twice the recommended amount (assuming the source is food).</li>
     </ul>
 </div>
 
-
-
-
-VITAMIN K (phylloquinone, menadione)  Activates proteins and calcium essential to blood clottingMay help prevent hip fractures  M: 120 mcg, W: 90 mcg Not known Cabbage, liver, eggs, milk, spinach, broccoli, sprouts, kale, collards, and other green vegetables  Intestinal bacteria make a form of vitamin K that accounts for half your requirements.If you take an anticoagulant, keep your vitamin K intake consistent.
 
 
 <h3>Vitamin K</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>phylloquinone, menadione</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Activates proteins and calcium essential to blood clotting</dd>
+          <dd>May help prevent hip fractures</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">Cabbage, spinach, broccoli, sprouts, kale, collards, and other green vegetables</dd>
+          <dd>liver, eggs, milk</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>Not known</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 120 mcg</dd>
+          <dd>Women: 90 mcg</dd>
+        <li>Intestinal bacteria make a form of vitamin K that accounts for half your requirements.</li>
+        <li>If you take an anticoagulant, keep your vitamin K intake consistent.</li>
     </ul>
 </div>
 
 
-
-
-
-MAGNESIUM Needed for many chemical reactions in the body Works with calcium in muscle contraction, blood clotting, and regulation of blood pressureHelps build bones and teeth  31+: M: 420 mg, W: 320 mg 350 mg (Note: This upper limit applies to supplements and medicines, such as laxatives, not to dietary magnesium.)  Green vegetables such as spinach and broccoli, legumes, cashews, sunflower seeds and other seeds, halibut, whole-wheat bread, milk  The majority of magnesium in the body is found in bones. If your blood levels are low, your body may tap into these reserves to correct the problem.
 
 <h3>Magnesium</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Needed for many chemical reactions in the body Works with calcium in muscle contraction, blood clotting, and regulation of blood pressure</dd>
+          <dd>Helps build bones and teeth</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">Green vegetables such as spinach and broccoli, legumes, cashews, sunflower seeds and other seeds, whole-wheat bread</dd>
+          <dd>halibut, milk</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>350 mg</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
+          <dd>31+: Men: 420 mg</dd>
+          <dd>31+: Women: 320 mg</dd>
           <dd>Women: </dd>
+        <li>The majority of magnesium in the body is found in bones.</li>
+        <li>If your blood levels are low, your body may tap into these reserves to correct the problem.</li>
     </ul>
 </div>
 
 
-
-
-MANGANESE Helps form bonesHelps metabolize amino acids, cholesterol, and carbohydrates  M: 2.3 mg, W: 1.8 mg  11 mg Nuts, legumes, whole grains, tea  If you take supplements or have manganese in your drinking water, be careful not to exceed the upper limit. Those with liver damage or whose diets supply abundant manganese should be especially vigilant.
 
 <h3>Manganese</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Helps form bonesHelps metabolize amino acids, cholesterol, and carbohydrates</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">Nuts, legumes, whole grains, tea</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>11 mg</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 2.3 mg</dd>
+          <dd>Women: 1.8 mg</dd>
+        <li>If you take supplements or have manganese in your drinking water, be careful not to exceed the upper limit.</li>
+        <li>Those with liver damage or whose diets supply abundant manganese should be especially vigilant.</li>
     </ul>
 </div>
 
 
-
-
-Mineral (common names)  Benefits  Recommended amount (daily RDA* or daily AI**) Upper limit (UL) per day  Good food sources Did you know?
-
-<h3>Mineral</h3>
-<div>
-    <ul>
-        <dt></dt>
-        <li>Good for</li>
-          <dd></dd>
-        <li>Side effects</li>
-          <dd></dd>
-        <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
-        <li>Limit per day</li>
-          <dd></dd>
-        <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
-    </ul>
-</div>
-
-
-
-
-MOLYBDENUM  Part of several enzymes, one of which helps ward off a form of severe neurological damage in infants that can lead to early death M: 45 mcg, W: 45 mcg  2,000 mcg Legumes, nuts, grain products, milk Molybdenum deficiencies are rare.
 
 <h3>Molybdenum</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Part of several enzymes, one of which helps ward off a form of severe neurological damage in infants that can lead to early death</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">Legumes, nuts, grain products,</dd>
+          <dd>milk</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>2,000 mcg</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 45 mcg</dd>
+          <dd>Women: 45 mcg</dd>
+        <li>Molybdenum deficiencies are rare.</li>
     </ul>
 </div>
 
 
-
-
-PHOSPHORUS  Helps build and protect bones and teethPart of DNA and RNAHelps convert food into energyPart of phospholipids, which carry lipids in blood and help shuttle nutrients into and out of cells M: 700 mg, W: 700 mg  31–70: 4,000 mg 71+: 3,000 mg Wide variety of foods, including milk and dairy products, meat, fish, poultry, eggs, liver, green peas, broccoli, potatoes, almonds Certain drugs bind with phosphorus, making it unavailable and causing bone loss, weakness, and pain.
 
 <h3>Phosphorus</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Helps build and protect bones and teeth</dd>
+          <dd>Part of DNA and RNA</dd>
+          <dd>Helps convert food into energy</dd>
+          <dd>Part of phospholipids, which carry lipids in blood and help shuttle nutrients into and out of cells</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">green peas, broccoli, potatoes, almonds</dd>
+          <dd>milk and dairy products, meat, fish, poultry, eggs, liver</dd>
         <li>Limit per day</li>
           <dd></dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 700 mg</dd>
+          <dd>Women: 700 mg</dd>
+          <dd>31–70: 4,000 mg</dd>
+          <dd>71+: 3,000 mg</dd>
+        <li>Certain drugs bind with phosphorus, making it unavailable and causing bone loss, weakness, and pain.</li>
     </ul>
 </div>
 
 
-
-POTASSIUM Balances fluids in the bodyHelps maintain steady heartbeat and send nerve impulses Needed for muscle contractions A diet rich in potassium seems to lower blood pressureGetting enough potassium from your diet may benefit bones Food and Nutrition Board 1989 guidelines: M: 2,000 mg, W: 2,000 mg  Not known Meat, milk, fruits, vegetables, grains, legumes New recommendations (DRIs) for potassium are under development by the Institute of Medicine.Food sources do not cause toxicity, but high-dose supplements might.
 
 <h3>Potassium</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Balances fluids in the body</dd>
+          <dd>Helps maintain steady heartbeat and send nerve impulses</dd>
+          <dd>Needed for muscle contractions</dd>
+          <dd>A diet rich in potassium seems to lower blood pressure</dd>
+          <dd>Getting enough potassium from your diet may benefit bones</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">fruits, vegetables, grains, legumes</dd>
+          <dd>Meat, milk</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>Not known</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 2,000 mg</dd>
+          <dd>Women: 2,000 mg</dd>
     </ul>
 </div>
 
 
-
-
-SELENIUM  Acts as an antioxidant, neutralizing unstable molecules that can damage cellsHelps regulate thyroid hormone activity  M: 55 mcg, W: 55 mcg  400 mcg Organ meats, seafood, walnuts, sometimes plants (depends on soil content), grain products Researchers are investigating whether selenium may help reduce the risk of developing cancer.
 
 <h3>Selenium</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Acts as an antioxidant, neutralizing unstable molecules that can damage cells</dd>
+          <dd>Helps regulate thyroid hormone activity</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">walnuts, sometimes plants (depends on soil content), grain products</dd>
+          <dd>Organ meats, seafood</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>400 mcg</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 55 mcg</dd>
+          <dd>Women: 55 mcg</dd>
     </ul>
 </div>
 
 
-
-
-SODIUM  Balances fluids in the bodyHelps send nerve impulses Needed for muscle contractionsImpacts blood pressure; even modest reductions in salt consumption can lower blood pressure  Food and Nutrition Board 1989 guidelines: M: 500 mg, W: 500 mg  Not determined  Salt, soy sauce, processed foods, vegetables  While experts recommend that people limit sodium intake to 2,400 mg, most Americans consume 4,000–6,000 mg a day.New recommendations (DRIs) for sodium are being developed by the Institute of Medicine.
 
 <h3>Sodium</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Balances fluids in the body</dd>
+          <dd>Helps send nerve impulses Needed for muscle contractions</dd>
+          <dd>Impacts blood pressure; even modest reductions in salt consumption can lower blood pressure</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">vegetables</dd>
+          <dd>Salt, soy sauce, processed foods</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>Not determined</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 500 mg</dd>
+          <dd>Women: 500 mg</dd>
+        <li>While experts recommend that people limit sodium intake to 2,400 mg, most Americans consume 4,000–6,000 mg a day.</li>
+        <li>New recommendations (DRIs) for sodium are being developed by the Institute of Medicine.</li>
     </ul>
 </div>
 
 
-
-
-SULFUR  Helps form bridges that shape and stabilize some protein structuresNeeded for healthy hair, skin, and nails Unknown Unknown Protein-rich foods, such as meats, fish, poultry, nuts, legumes Sulfur is a component of thiamin and certain amino acids. There is no recommended amount for sulfur. Deficiencies occur only with a severe lack of protein.
 <h3>Sulfur</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Helps form bridges that shape and stabilize some protein structures</dd>
+          <dd>Needed for healthy hair, skin, and nails</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">nuts, legumes</dd>
+          <dd>meats, fish, poultry</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>Unknown</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: Unknown</dd>
+          <dd>Women: Unknown</dd>
+        <li>Sulfur is a component of thiamin and certain amino acids.</li>
+        <li>There is no recommended amount for sulfur.</li>
+        <li>Deficiencies occur only with a severe lack of protein.</li>
     </ul>
 </div>
-
-
-ZINC  Helps form many enzymes and proteins and create new cellsFrees vitamin A from storage in the liverNeeded for immune system, taste, smell, and wound healingWhen taken with certain antioxidants, zinc may delay the progression of age-related macular degeneration M: 11 mg, W: 8 mg 40 mg Red meat, poultry, oysters and some other seafood, fortified cereals, beans, nuts Because vegetarians absorb less zinc, experts suggest that they get twice the recommended requirement of zinc from plant foods.
 
 
 <h3>Zinc</h3>
 <div>
     <ul>
-        <dt></dt>
+        <dt>Mineral</dt>
         <li>Good for</li>
-          <dd></dd>
+          <dd>Helps form many enzymes and proteins and create new cells</dd>
+          <dd>Frees vitamin A from storage in the liver</dd>
+          <dd>Needed for immune system, taste, smell, and wound healing</dd>
         <li>Side effects</li>
           <dd></dd>
         <li>Food</li>
-          <dd style="color: green; font-weight: bold;"></dd>
-          <dd></dd>
+          <dd style="color: green; font-weight: bold;">fortified cereals, beans, nuts</dd>
+          <dd>Red meat, poultry, oysters and some other seafood</dd>
         <li>Limit per day</li>
-          <dd></dd>
+          <dd>40 mg</dd>
         <li>Recommended amount (daily)</li>
-          <dd>Men: </dd>
-          <dd>Women: </dd>
+          <dd>Men: 11 mg</dd>
+          <dd>Women: 8 mg</dd>
+        <li>When taken with certain antioxidants, zinc may delay the progression of age-related macular degeneration</li>
+        <li>Because vegetarians absorb less zinc, experts suggest that they get twice the recommended requirement of zinc from plant foods.</li>
     </ul>
 </div>
 
 
 </div> <!-- end of accordion -->
-
-
-
-
 
 
 
