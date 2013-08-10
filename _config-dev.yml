@@ -1,7 +1,7 @@
 # to run from the dev, please run jekyll like this:
 # jekyll serve --watch --config _config.yml,_config-dev.yml
 name: organic living dev site
-description: "true organic, chemical free living"
+description: organic, non-gmo, chemical free, vegan
 pygments: true
 paginate: 5
 paginate_path: "page:num"

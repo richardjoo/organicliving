@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>search</title>
+    <title>organic</title>
     <link rel="shortcut icon" href="http://192.168.1.11:4000/images/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="http://192.168.1.11:4000/images/iphone_bookmark.png" />
     <link rel="stylesheet" href="http://192.168.1.11:4000/stylesheets/styles.css">
@@ -62,25 +62,50 @@
       </nav>
 
       <section>
-        <script id="search-results-template" type="text/mustache">
-  
-    <article>
-      <h3>
-        <small><time datetime="" pubdate></time></small>
-        <a href=""></a></h3>
-    </article>
-  
-</script>
+        <div id="home">
+  <h1>Shopping List</h1>
+  <p>It was a doom's day when we first time go shopping. Here is our shopping list.</p>
 
-<div id="home">
-  <h1>Search Result</h1>
-	<br />
+    <div id="accordion">
+      <h3>Food</h3>
+      <div>
+        <ul>
+          <li>Vegetables</li>
+            <ul>
+              <dt>Kales</dt>
+                <ul>
+                  <dt>Stores</dt>
+                  <ul>
+                    <li>Farmer's Market: Most often time, it is the most fresh and the cheapest.</li>
+                    <li>New Seasons: Second best.</li>
+                    <li>Whole Foods</li>
+                  </ul>
 
-  <section id="search-results" style="display: none;">
-	  <p>Search results</p>
-	  <div class="entries">
-	  </div>
-	</section>
+                  <dt>Italian Kales</dt>
+                  <ul>
+                    <li>Italian Kales</li>
+                    <li>Russian Kales</li>
+                  </ul>
+
+                  <dt>Russian Kales</dt>
+                  <ul>
+                    <li>Never tried it before.</li>
+                    <li>Don't know the taste</li>
+                  </ul>
+                </ul>
+            </ul>
+          <li>Fruits</li>
+          <li>Cereals</li>
+          <li>Meat</li>
+        </ul>
+      </div>
+
+      <h3>Cosmetics</h3>
+      <div></div>
+
+      <h3>Household Products</h3>
+      <div></div>
+    </div>
 </div>
 
       </section>

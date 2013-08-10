@@ -25,13 +25,17 @@
           active: false
         });
       });
+
+      $(function() {
+        $( "#tabs" ).tabs();
+      });
     </script>
   </head>
   <body>
 
       <header>
         <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
-        <p>organic, non-gmo, chemical free, vegan</p>
+        <p>{{ site.description }}</p>
       </header>
 
       <div id="banner">
